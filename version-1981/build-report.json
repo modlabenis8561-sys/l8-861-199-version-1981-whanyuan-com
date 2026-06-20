@@ -1,0 +1,13 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2012,
+  "category_pages": 8,
+  "category_coverage": 2000,
+  "movie_cards_in_category_pages": 2000,
+  "movie_cards_in_movies_html": 2000,
+  "analytics_missing": 0,
+  "jpg_files_generated": 0,
+  "m3u8_sources_from_original_js": 20,
+  "zip_size_bytes": 9962012
+}
